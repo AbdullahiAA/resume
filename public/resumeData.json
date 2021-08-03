@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Jelili Abdullahi",
-    "occupation": "A JavaScript Developer",
+    "occupation": "A Fontend Web Developer and a Digital Skills teacher",
     "description": "I build websites with JavaScript and some of its beautiful frameworks like React JS",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "bio": "Hi there! I am Abdullah! You might also know me as TechPro. I've been coding for over 6 years now. As a Frontend developer, I've worked on different projects. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained more that 200 of developers across the globe. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development quickly. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
     "contactmessage": "Get in touch with me to be a part of the GOOD thing!",
     "email": "osuolaleabdullahi@gmail.com",
     "phone": "+2349050578612",
@@ -71,7 +71,7 @@
         "company": "Sanwo",
         "title": "Front End Developer",
         "years": "April 2021 - Present",
-        "description": "I'm basically building the front end of this FinTech product using React JS."
+        "description": "I'm basically building the front end of there FinTech product using React JS."
       }
     ],
     "skills": [
@@ -104,22 +104,40 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Clipboard Landing Page",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1556725335%2FChallenges%2Fxiydlw7ggmnfnldlflit.jpg&w=828&q=75",
+        "url": "https://clipboard-landing-page-abdullahiaa.vercel.app/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Safewash Landing Page",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "images/portfolio/safewash.png",
+        "url": "https://safewash-tau.vercel.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Huddle Landing Page",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1554380184%2FChallenges%2Fy6pmwmuyxhqn0jxwgxxj.jpg&w=256&q=75",
+        "url": "https://huddle-landing-page-with-alternating-feature-blocks-abdullahiaa.vercel.app/"
+      },
+      {
+        "title": "Huddle landing page with a single introductory section",
+        "category": "",
+        "image": "https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1554378991%2FChallenges%2Faaykth21moiquxkubywu.jpg&w=256&q=75",
+        "url": "https://huddle-landing-page-nine-gamma.vercel.app/"
+      },
+      {
+        "title": "Fylo Data Storage Component",
+        "category": "",
+        "image": "https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1591033485%2FChallenges%2Fjve24exh4iwonznfndfc.jpg&w=256&q=75",
+        "url": "https://fylo-data-storage-component-theta-nine.vercel.app/"
+      },
+      {
+        "title": "Social Proof Section",
+        "category": "",
+        "image": "https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1599649547%2FChallenges%2Fa0t2zk1zww7gmanfoix3.jpg&w=256&q=75",
+        "url": "https://social-proof-section-sigma-neon.vercel.app/"
       }
     ]
   },
