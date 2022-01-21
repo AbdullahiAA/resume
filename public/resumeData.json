@@ -1,156 +1,156 @@
 {
-  "main": {
-    "name": "Jelili Abdullahi",
-    "occupation": "A Fontend Web Developer and a Digital Skills teacher",
-    "description": "I build websites with JavaScript and some of its beautiful frameworks like React JS",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Abdullah! You might also know me as TechPro. I've been coding for over 6 years now. As a Frontend developer, I've worked on different projects. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained more that 200 of developers across the globe. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development quickly. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the GOOD thing!",
-    "email": "osuolaleabdullahi@gmail.com",
-    "phone": "+2349050578612",
-    "address": {
-      "street": "No 1, Omiyale-Aladi Street, Olomi Area.",
-      "city": "Ibadan",
-      "state": "Oyo State",
-      "zip": "Nigeria"
-    },
-    "website": "https://www.techprodigitals.com",
-    "resumedownload": "#",
-    "social": [
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCKmnWUatxXaDnCq0WaM_kcQ",
-        "className": "fa fa-youtube"
+   "main": {
+      "name": "Jelili Abdullahi",
+      "occupation": "A Frontend Web Developer and a Digital Skills teacher",
+      "description": "I build websites with JavaScript and some of its beautiful frameworks like React JS",
+      "image": "profilepic.jpg",
+      "bio": "Hi there! I am Abdullah! You might also know me as TechPro. I've been coding for over 6 years now. As a Frontend developer, I've worked on different projects. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained more that 200 of developers across the globe. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development quickly. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+      "contactmessage": "Get in touch with me to be a part of the GOOD thing!",
+      "email": "osuolaleabdullahi@gmail.com",
+      "phone": "+2349050578612",
+      "address": {
+         "street": "No 1, Omiyale-Aladi Street, Olomi Area.",
+         "city": "Ibadan",
+         "state": "Oyo State",
+         "zip": "Nigeria"
       },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/osuolale.abdullahi",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/jelili-abdullahi",
-        "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/abdullahi_tdc/",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/abdullahiaa",
-        "className": "fa fa-github"
-      }
-    ]
-  },
-  "resume": {
-    "skillmessage": "My Programming Language Proficiency",
-    "education": [
-      {
-        "school": "University of Ibadan",
-        "degree": "Bachelor's Degree of Education, B Ed.",
-        "graduated": "November 2017 - present",
-        "description": "Studying Mathematics Education"
-      },
-      {
-        "school": "The Polytechnic Ibadan - Ibadan",
-        "degree": "National Diploma, ND",
-        "graduated": "September 2017",
-        "description": "Studied Computer Science"
-      }
-    ],
-    "work": [
-      {
-        "company": "TechPro Digital Concept (TDC)",
-        "title": "Founder and CEO",
-        "years": "May 2020 - Present",
-        "description": "Equipping people with digital skills that will serve as another dependable stream of huge income."
-      },
-      {
-        "company": "Sanwo",
-        "title": "Front End Developer",
-        "years": "April 2021 - Present",
-        "description": "I'm basically building the front end of there FinTech product using React JS."
-      }
-    ],
-    "skills": [
-      {
-        "name": "ReactJs",
-        "level": "75%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "HTML",
-        "level": "98%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "80%"
-      },
-      {
-        "name": "Web Development",
-        "level": "70%"
-      }
-    ]
-  },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "Clipboard Landing Page",
-        "category": "",
-        "image": "https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1556725335%2FChallenges%2Fxiydlw7ggmnfnldlflit.jpg&w=828&q=75",
-        "url": "https://clipboard-landing-page-abdullahiaa.vercel.app/"
-      },
-      {
-        "title": "Safewash Landing Page",
-        "category": "",
-        "image": "images/portfolio/safewash.png",
-        "url": "https://safewash-tau.vercel.app/"
-      },
-      {
-        "title": "Huddle Landing Page",
-        "category": "",
-        "image": "https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1554380184%2FChallenges%2Fy6pmwmuyxhqn0jxwgxxj.jpg&w=256&q=75",
-        "url": "https://huddle-landing-page-with-alternating-feature-blocks-abdullahiaa.vercel.app/"
-      },
-      {
-        "title": "Huddle landing page with a single introductory section",
-        "category": "",
-        "image": "https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1554378991%2FChallenges%2Faaykth21moiquxkubywu.jpg&w=256&q=75",
-        "url": "https://huddle-landing-page-nine-gamma.vercel.app/"
-      },
-      {
-        "title": "Fylo Data Storage Component",
-        "category": "",
-        "image": "https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1591033485%2FChallenges%2Fjve24exh4iwonznfndfc.jpg&w=256&q=75",
-        "url": "https://fylo-data-storage-component-theta-nine.vercel.app/"
-      },
-      {
-        "title": "Social Proof Section",
-        "category": "",
-        "image": "https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1599649547%2FChallenges%2Fa0t2zk1zww7gmanfoix3.jpg&w=256&q=75",
-        "url": "https://social-proof-section-sigma-neon.vercel.app/"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "TechPro's training is worth million of lines for this, but we say Jazakumullohu Khayraa for your effort, contribution and advices. I am grateful and very proud to have you sir...",
-        "user": "Ridwan Yahaya"
-      },
-      {
-        "text": "TechPro's training is worth while and the sessions were inspiring and motivating... Alhamdulillah!",
-        "user": "Zainab Adedoyin"
-      }
-    ]
-  }
+      "website": "https://www.techprodigitals.com",
+      "resumedownload": "#",
+      "social": [
+         {
+            "name": "youtube",
+            "url": "https://www.youtube.com/channel/UCKmnWUatxXaDnCq0WaM_kcQ",
+            "className": "fa fa-youtube"
+         },
+         {
+            "name": "facebook",
+            "url": "https://www.facebook.com/osuolale.abdullahi",
+            "className": "fa fa-facebook"
+         },
+         {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/in/jelili-abdullahi",
+            "className": "fa fa-linkedin"
+         },
+         {
+            "name": "instagram",
+            "url": "https://www.instagram.com/abdullahi_tdc/",
+            "className": "fa fa-instagram"
+         },
+         {
+            "name": "github",
+            "url": "https://github.com/abdullahiaa",
+            "className": "fa fa-github"
+         }
+      ]
+   },
+   "resume": {
+      "skillmessage": "My Programming Language Proficiency",
+      "education": [
+         {
+            "school": "University of Ibadan",
+            "degree": "Bachelor's Degree of Education, B Ed.",
+            "graduated": "November 2017 - present",
+            "description": "Studying Mathematics Education"
+         },
+         {
+            "school": "The Polytechnic Ibadan - Ibadan",
+            "degree": "National Diploma, ND",
+            "graduated": "September 2017",
+            "description": "Studied Computer Science"
+         }
+      ],
+      "work": [
+         {
+            "company": "TechPro Digital Concept (TDC)",
+            "title": "Founder and CEO",
+            "years": "May 2020 - Present",
+            "description": "Equipping people with digital skills that will serve as another dependable stream of huge income."
+         },
+         {
+            "company": "Sanwo",
+            "title": "Front End Developer",
+            "years": "July 2021 - Present",
+            "description": "I'm basically building the front end of there FinTech product using React JS."
+         }
+      ],
+      "skills": [
+         {
+            "name": "ReactJS",
+            "level": "75%"
+         },
+         {
+            "name": "Git",
+            "level": "70%"
+         },
+         {
+            "name": "HTML",
+            "level": "98%"
+         },
+         {
+            "name": "CSS",
+            "level": "90%"
+         },
+         {
+            "name": "JavaScript",
+            "level": "80%"
+         },
+         {
+            "name": "Web Development",
+            "level": "70%"
+         }
+      ]
+   },
+   "portfolio": {
+      "projects": [
+         {
+            "title": "Clipboard Landing Page",
+            "category": "",
+            "image": "https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1556725335%2FChallenges%2Fxiydlw7ggmnfnldlflit.jpg&w=828&q=75",
+            "url": "https://clipboard-landing-page-abdullahiaa.vercel.app/"
+         },
+         {
+            "title": "Safewash Landing Page",
+            "category": "",
+            "image": "images/portfolio/safewash.png",
+            "url": "https://safewash-tau.vercel.app/"
+         },
+         {
+            "title": "Huddle Landing Page",
+            "category": "",
+            "image": "https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1554380184%2FChallenges%2Fy6pmwmuyxhqn0jxwgxxj.jpg&w=256&q=75",
+            "url": "https://huddle-landing-page-with-alternating-feature-blocks-abdullahiaa.vercel.app/"
+         },
+         {
+            "title": "Huddle landing page with a single introductory section",
+            "category": "",
+            "image": "https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1554378991%2FChallenges%2Faaykth21moiquxkubywu.jpg&w=256&q=75",
+            "url": "https://huddle-landing-page-nine-gamma.vercel.app/"
+         },
+         {
+            "title": "Fylo Data Storage Component",
+            "category": "",
+            "image": "https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1591033485%2FChallenges%2Fjve24exh4iwonznfndfc.jpg&w=256&q=75",
+            "url": "https://fylo-data-storage-component-theta-nine.vercel.app/"
+         },
+         {
+            "title": "Social Proof Section",
+            "category": "",
+            "image": "https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1599649547%2FChallenges%2Fa0t2zk1zww7gmanfoix3.jpg&w=256&q=75",
+            "url": "https://social-proof-section-sigma-neon.vercel.app/"
+         }
+      ]
+   },
+   "testimonials": {
+      "testimonials": [
+         {
+            "text": "TechPro's training is worth million of lines for this, but we say Jazakumullohu Khayraa for your effort, contribution and advices. I am grateful and very proud to have you sir...",
+            "user": "Ridwan Yahaya"
+         },
+         {
+            "text": "TechPro's training is worth while and the sessions were inspiring and motivating... Alhamdulillah!",
+            "user": "Zainab Adedoyin"
+         }
+      ]
+   }
 }
