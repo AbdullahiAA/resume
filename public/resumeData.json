@@ -15,7 +15,7 @@
          "zip": "Nigeria"
       },
       "website": "https://abdullahi-resume.netlify.app",
-      "resumedownload": "#",
+      "resumedownload": "pdf/myResume.pdf",
       "social": [
          {
             "name": "youtube",
@@ -103,6 +103,12 @@
    },
    "portfolio": {
       "projects": [
+         {
+            "title": "Sanwo Fintech",
+            "category": "",
+            "image": "images/portfolio/SanwoDashboard.png",
+            "url": "https://dashboard.sanwo.io"
+         },
          {
             "title": "Clipboard Landing Page",
             "category": "",
