@@ -2,7 +2,7 @@
    "main": {
       "name": "Jelili Abdullahi",
       "occupation": "A Frontend Web Developer and a Digital Skills teacher",
-      "description": "I build websites with JavaScript and some of its beautiful frameworks like React JS",
+      "description": "I build websites with JavaScript and some of its beautiful frameworks like React JS, Next JS and so on",
       "image": "profilepic.jpg",
       "bio": "Hi there! I am Abdullah! You might also know me as TechPro. I've been coding for over 6 years now. As a Frontend developer, I've worked on different projects. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained more that 200 of developers across the globe. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development quickly. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
       "contactmessage": "Get in touch with me to be a part of the GOOD thing!",
@@ -14,7 +14,7 @@
          "state": "Oyo State",
          "zip": "Nigeria"
       },
-      "website": "https://www.techprodigitals.com",
+      "website": "https://abdullahi-resume.netlify.app",
       "resumedownload": "#",
       "social": [
          {
@@ -50,38 +50,42 @@
          {
             "school": "University of Ibadan",
             "degree": "Bachelor's Degree of Education, B Ed.",
-            "graduated": "November 2017 - present",
+            "graduated": "January 2018 - present",
             "description": "Studying Mathematics Education"
          },
          {
             "school": "The Polytechnic Ibadan - Ibadan",
             "degree": "National Diploma, ND",
-            "graduated": "September 2017",
+            "graduated": "August 2015 - September 2017",
             "description": "Studied Computer Science"
          }
       ],
       "work": [
          {
-            "company": "TechPro Digital Concept (TDC)",
-            "title": "Founder and CEO",
-            "years": "May 2020 - Present",
-            "description": "Equipping people with digital skills that will serve as another dependable stream of huge income."
-         },
-         {
             "company": "Sanwo",
             "title": "Front End Developer",
             "years": "July 2021 - Present",
             "description": "I'm basically building the front end of there FinTech product using React JS."
+         },
+         {
+            "company": "TechPro Digital Concept (TDC)",
+            "title": "Founder and CEO",
+            "years": "May 2020 - Present",
+            "description": "Equipping people with digital skills that will serve as another dependable stream of huge income."
          }
       ],
       "skills": [
          {
-            "name": "ReactJS",
+            "name": "React JS",
             "level": "75%"
          },
          {
-            "name": "Git",
-            "level": "70%"
+            "name": "Next JS",
+            "level": "60%"
+         },
+         {
+            "name": "Git & GitHub",
+            "level": "65%"
          },
          {
             "name": "HTML",
@@ -94,10 +98,6 @@
          {
             "name": "JavaScript",
             "level": "80%"
-         },
-         {
-            "name": "Web Development",
-            "level": "70%"
          }
       ]
    },
