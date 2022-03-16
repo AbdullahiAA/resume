@@ -3,7 +3,6 @@ import React from "react";
 const Portfolio = ({ data }) => {
   if (data) {
     var projects = data.projects.map(function (projects) {
-      // var projectImage = "images/portfolio/" + projects.image;
       var projectImage = projects.image;
       return (
         <div key={projects.title} className="columns portfolio-item">
@@ -34,7 +33,7 @@ const Portfolio = ({ data }) => {
 
           <div
             id="portfolio-wrapper"
-            className="bgrid-quarters s-bgrid-thirds cf"
+            // className="bgrid-quarters s-bgrid-thirds cf"
           >
             {projects}
           </div>
